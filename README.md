@@ -1,5 +1,5 @@
 # Miramar
-PlayerUnknown's Battlegrounds
+A PlayerUnknown's Battlegrounds Map
 
 **Single:** 8192x8192 image
 
